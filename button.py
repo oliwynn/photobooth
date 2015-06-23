@@ -6,6 +6,8 @@ import os
 
 def main():
 
+
+
     # tell the GPIO module that we want to use the
     # chip's pin numbering scheme
     GPIO.cleanup()
